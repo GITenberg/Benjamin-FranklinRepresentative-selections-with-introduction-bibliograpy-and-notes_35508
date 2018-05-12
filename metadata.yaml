@@ -1,0 +1,41 @@
+_repo: Benjamin-FranklinRepresentative-selections-with-introduction-bibliograpy-and-notes_35508
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Franklin, Benjamin
+    birthdate: 1706
+    deathdate: 1790
+    gutenberg_agent_id: '92'
+    url: http://www.gutenberg.org/2009/agents/92
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
+  editors:
+  - agent_name: Jorgenson, Chester E. (Chester Eugene)
+    birthdate: 1907
+    gutenberg_agent_id: '37721'
+    url: http://www.gutenberg.org/2009/agents/37721
+  - agent_name: Mott, Frank Luther
+    birthdate: 1886
+    deathdate: 1964
+    gutenberg_agent_id: '35492'
+    url: http://www.gutenberg.org/2009/agents/35492
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Luther_Mott
+description: ''
+gutenberg_issued: '2011-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35508'
+  lccn: '36010175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franklin, Benjamin, 1706-1790'
+- !lcc 'PS'
+title: 'Benjamin Franklin
+
+  Representative selections, with introduction, bibliograpy, and notes'
+url: http://www.gutenberg.org/ebooks/35508
