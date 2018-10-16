@@ -37,6 +37,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Franklin, Benjamin, 1706-1790'
 - !lcc 'PS'
+- GITenberg
 title: 'Benjamin Franklin
 
   Representative selections, with introduction, bibliograpy, and notes'
